@@ -15,9 +15,7 @@
 
 启用破解版只需在soga_key处输入任意字符即可，如留空则为原版社区版本。
 
-## 完整教程
 
-[doc.sprov.xyz](https://doc.sprov.xyz/)
 
 ## 简单安装
 
